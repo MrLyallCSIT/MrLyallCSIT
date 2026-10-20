@@ -26,18 +26,7 @@
 ![GitHub Contribution Card](https://github-contribution-card.vercel.app/api?username=MrLyallCSIT&theme=tokyonight&order_by=stars&limit=5&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=MrLyallCSIT&icon=0&color=2)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=MrLyallCSIT&label=Profile%20Views&color=2&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### Connect with me:
-
-[<img align="left" alt="ADCM" width="22px" src="https://assets.adcmnetworks.co.uk/img/logo.png" />][portfolio]
-[<img align="left" alt="Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
-<!--[<img align="left" alt="AlexanderEDLyall | GPG Key" width="22px" src="https://simpleicons.org/icons/gnuprivacyguard.svg" />][pubkey]-->
-
-<br />
+[![](https://visitcount.itsvg.in/api?id=MrLyallCSIT&label=Profile%20Views&color=orange&pretty=true)](https://visitcount.itsvg.in)
 
 [website]: https://www.mrlyall.uk
 [portfolio]: https://portfolio.mrlyall.uk
